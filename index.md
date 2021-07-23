@@ -30,5 +30,3 @@ Day in to day out I keep these on my mind so I can be the best that I know I can
 
 Mindset Chart: [`Trainugly.com`](https://trainugly.com/mindset-makers-breakers-pt1/)
 
-Austin N's Github [link](https://github.com/AustinNich)
-
