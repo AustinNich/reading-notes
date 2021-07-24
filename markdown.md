@@ -10,7 +10,9 @@ Markdown is one of the basic code languages that an experienced or ***beginner**
 
 ### Getting Started
 
-First off, lets determine what it is that you are wanting to code! Markdown is very wide spread so you have a few options, but I will focus on this web site for example! Once that is sorted out you will need to create a new file on your computer for the project, as well as open the file in a code editor! If you are interested in making a web page through GitHub pages as well, here is a [_link_](https://pages.github.com/) that will help you get your first repository set up and cloned to your computer so you can start coding.  If you are not for sure what editor to use, there are tons that you can look into online to see what fits you best!
+First off, lets determine what it is that you are wanting to code! Markdown is very wide spread so you have a few options, but I will focus on this web site for example! Once that is sorted out you will need to create a new file on your computer for the project, as well as open the file in a code editor! If you are interested in making a web page through GitHub pages as well, here is a [_link_](https://pages.github.com/) that will help you get your first repository set up so you can start coding.  If you are not for sure what editor to use, there are tons that you can look into online to see what fits you best!
+
+<!-- blank line -->
 
 <iframe width="853" height="480" src="https://www.youtube.com/embed/2MsN8gpT6jY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
