@@ -16,6 +16,7 @@ First off, lets determine what it is that you are wanting to code! Markdown is v
 
 This is really when your creativity comes into play! We have everything set up and ready to go, now we just have to develope a formatting plan for the page and **code**! You may be thinking to your self, thats it, but truthfully it is with Markdown! Markdowns language has been around for a while and with times hasn't change much. With this being said, I think it is safe to say with a little bit of hard work and memorization anyone would be able to learn Markdown!
 
+----
 
 ###### Simple Markdown Syntax:
 
