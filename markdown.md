@@ -9,6 +9,6 @@ Code | Effect
 `# Header 1`| displays your text in the larget heading avaliable
 `## Header 2`| displays your text as a header the next size down
 `###### Smallest Header`| displays your text as a header in the smallest heading size
-`__Italics__`| __Markdown__ 
+`_Italics_`| _Markdown_ 
 `**Bold**`| **Markdown**
 `***Bold&Italic***`| ***Markdown***
