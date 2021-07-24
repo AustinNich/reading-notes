@@ -1,4 +1,5 @@
 ### Markdown and how it is used
 
-First Header | Second Header
+        Code | Example
 ------------ | -------------
+           h | q
