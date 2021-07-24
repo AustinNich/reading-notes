@@ -12,6 +12,8 @@ Markdown is one of the basic code languages that an experienced or ***beginner**
 
 First off, lets determine what it is that you are wanting to code! Markdown is very wide spread so you have a few options, but I will focus on this web site for example! Once that is sorted out you will need to create a new file on your computer for the project, as well as open the file in a code editor! If you are interested in making a web page through GitHub pages as well, here is a [_link_](https://pages.github.com/) that will help you get your first repository set up and cloned to your computer so you can start coding.  If you are not for sure what editor to use, there are tons that you can look into online to see what fits you best!
 
+[video](https://youtu.be/2MsN8gpT6jY)
+
 ### Taking the Wheel
 
 This is really when your creativity comes into play! We have everything set up and ready to go, now we just have to develope a formatting plan for the page and **code**! You may be thinking to your self, thats it, but truthfully it is with Markdown! Markdowns language has been around for a while and with times hasn't change much. With this being said, I think it is safe to say with a little bit of hard work and memorization anyone would be able to learn Markdown!
