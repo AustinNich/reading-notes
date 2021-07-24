@@ -1,13 +1,13 @@
 ### Markdown and how it is used
 
-Markdown is one of the basic code languages that an experienced or ***beginner*** coder can use to develop websites, documents, notes, etc! While markdown may sound complex, and it is in many ways, the key is that it is just a language accumulated of symbols that vary in different arrangements. Once you know a little more about what symbols to use and where to use them, you will be able to format and develop what ever you would like and make it look well put together! 
-
-### Getting Started
 <html>
 <body>
-hello
+Markdown is one of the basic code languages that an experienced or ***beginner*** coder can use to develop websites, documents, notes, etc! While markdown may sound complex, and it is in many ways, the key is that it is just a language accumulated of symbols that vary in different arrangements. Once you know a little more about what symbols to use and where to use them, you will be able to format and develop what ever you would like and make it look well put together! 
 </body>
-</html>
+<html>
+
+### Getting Started
+
 
 ###### Markdown examples:
 
