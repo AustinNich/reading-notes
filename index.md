@@ -28,7 +28,6 @@ Day in to day out I keep these on my mind so I can be the best that I know I can
 
 <img loading="lazy" class="alignnone size-full wp-image-810" src="https://i2.wp.com/trainugly.com/wp-content/uploads/2015/01/mindset-table.png?resize=1920%2C1080" alt="mindset table" width="736" height="458" srcset="https://i2.wp.com/trainugly.com/wp-content/uploads/2015/01/mindset-table.png?w=1920&amp;ssl=1 1920w, https://i2.wp.com/trainugly.com/wp-content/uploads/2015/01/mindset-table.png?resize=300%2C169&amp;ssl=1 300w, https://i2.wp.com/trainugly.com/wp-content/uploads/2015/01/mindset-table.png?resize=1024%2C576&amp;ssl=1 1024w, https://i2.wp.com/trainugly.com/wp-content/uploads/2015/01/mindset-table.png?resize=900%2C506&amp;ssl=1 900w, https://i2.wp.com/trainugly.com/wp-content/uploads/2015/01/mindset-table.png?resize=622%2C350&amp;ssl=1 622w, https://i2.wp.com/trainugly.com/wp-content/uploads/2015/01/mindset-table.png?resize=100%2C56&amp;ssl=1 100w" sizes="(max-width: 1000px) 100vw, 1000px">
 
-Mindset Chart: [`Trainugly.com`](https://trainugly.com/mindset-makers-breakers-pt1/)
 
 ##### Want to learn more?
 ###### [*Markdown*](https://austinnich.github.io/reading-notes/markdown)
