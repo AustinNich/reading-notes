@@ -32,4 +32,5 @@ Mindset Chart: [`Trainugly.com`](https://trainugly.com/mindset-makers-breakers-p
 
 ##### Want to learn more?
 [*Markdown*](https://austinnich.github.io/reading-notes/markdown)
+
 [*Linux*](https://austinnich.github.io/reading-notes/linux)
