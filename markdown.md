@@ -12,3 +12,4 @@ Code | Effect
 `_Italics_`| _Markdown_ 
 `**Bold**`| **Markdown**
 `***Bold&Italic***`| ***Markdown***
+`~~Crossout~~`| ~~Markdown~~
