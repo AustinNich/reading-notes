@@ -1,4 +1,4 @@
-### Markdown and how it is used
+## Markdown and how it is used
 
 ![Markdown](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2015/12/learn-markdown.jpg)
 
