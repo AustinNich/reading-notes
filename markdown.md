@@ -7,8 +7,8 @@ Markdown is one of the basic code laungages that a experinced or **beginner** co
 Code | Effect
 ------------ | -------------
 `# Header 1`| displays your text in the larget heading avaliable
-`## Header 2`| displays your text as a heading the next size down
-`###### Smallest Header`| ##### Markdown
-`*Bold*`| *Markdown* 
-`**Italics**`| **Markdown**
+`## Header 2`| displays your text as a header the next size down
+`###### Smallest Header`| displays your text as a header in the smallest heading size
+`__Italics__`| __Markdown__ 
+`**Bold**`| **Markdown**
 `***Bold&Italic***`| ***Markdown***
