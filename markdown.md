@@ -1,8 +1,10 @@
-## Markdown and how it is used
+## Markdown and How it is Used
 
 ![Markdown](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2015/12/learn-markdown.jpg)
 
 ----
+
+### Markdown
 
 Markdown is one of the basic code languages that an experienced or ***beginner*** coder can use to develop websites, documents, notes, etc! While markdown may sound complex, and it is in many ways, the key is that markdown is just a language accumulated of symbols that vary in different arrangements. Once you know a little more about what symbols to use and where to use them, you will be able to format and develop what ever you would like and make it look well put together! 
 
