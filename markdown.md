@@ -6,5 +6,9 @@ Markdown is one of the basic code laungages that a experinced or **beginner** co
 
 Code | Effect
 ------------ | -------------
-`# Header 1`| Content from cell 2
-`## Header 2`| Content in the second column
+`# Header 1`| displays your text in the larget heading avaliable
+`## Header 2`| displays your text as a heading the next size down
+`###### Smallest Header`| ##### Markdown
+`*Bold*`| *Markdown* 
+`**Italics**`| **Markdown**
+`***Bold&Italic***`| ***Markdown***
