@@ -1,9 +1,10 @@
 ### Markdown and how it is used
 
-        Code | Example
-           h | q
+Markdown is one of the basic code laungages that a experinced or **beginner** coder can use to devolepe websites, documents, notes, etc! While markdown may sound complex, and it is in many ways, the key is that it is just a langauge accumulated of symbols that vary in different arragments. 
 
-First Header | Second Header
+###### Markdown examples:
+
+Code | Effect
 ------------ | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+`# Header 1`| Content from cell 2
+`## Header 2`| Content in the second column
