@@ -6,7 +6,7 @@
 
 ### Markdown
 
-Markdown is one of the basic coding languages that an experienced or ***beginning*** coder can use to develop websites, documents, notes, etc! While markdown may sound complex, and it is in many ways, the key is that markdown is just a language accumulated of symbols that vary in different arrangements Once you know a little more about what symbols to use and where to use them, you will be able to format and develop what ever you would like and make it look well put together! 
+Markdown is one of the basic coding languages that an experienced or ***beginning*** coder can use to develop websites, documents, notes, etc! While markdown may sound complex, and it is in many ways, the key is that markdown is just a language accumulated of symbols that vary in different arrangements. Once you know a little more about what symbols to use and where to use them, you will be able to format and develop what ever you would like and make it look well put together! 
 
 ### Learning the Language 
 
