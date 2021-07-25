@@ -6,11 +6,11 @@
 
 ### Markdown
 
-Markdown is one of the basic coding languages that an experienced or ***beginner*** coder can use to develop websites, documents, notes, etc! While markdown may sound complex, and it is in many ways, the key is that markdown is just a language accumulated of symbols that vary in different arrangements. Once you know a little more about what symbols to use and where to use them, you will be able to format and develop what ever you would like and make it look well put together! 
+Markdown is one of the basic coding languages that an experienced or ***beginning*** coder can use to develop websites, documents, notes, etc! While markdown may sound complex, and it is in many ways, the key is that markdown is just a language accumulated of symbols that vary in different arrangements. Once you know a little more about what symbols to use and where to use them, you will be able to format and develop what ever you would like and make it look well put together! 
 
 ### Learning the Language 
 
-While markdown is not quite what we think about when talking about langages, the practice of learning it is very similar to learning english, spanish, or any other langauge. Markdown is no where comparable in size, allowing there to be guides and websites that can list all the avaliable code that markdown has to offer. Below are a few examples of code used in markdown and what they do specifically!
+While markdown is not quite what we think about when talking about langages, the practice of learning it is very similar to learning english, spanish, or any other langauge. Markdown is no where comparable in size, allowing there to be guides and websites that can list all the avaliable code that markdown has to offer. Below are just a few examples of code used from markdown as well as the code I used to generate the chart!
 
 ----
 
@@ -21,12 +21,14 @@ Code | Effect
 `# Header 1`| Displays your text in the largest heading available
 `## Header 2`| Displays your text as a header the next size down
 `###### Smallest Header`| displays your text as a header in the smallest heading size
-``code``| `Markdown`
+``Code Block``| `Markdown`
 `_Italics_`| _Markdown_ 
 `**Bold**`| **Markdown**
 `***Bold&Italic***`| ***Markdown***
 `~~Crossout~~`| ~~Markdown~~
 
+
+###### > Click [here](https://guides.github.com/features/mastering-markdown/) for more Markdown Example
 
 ```
 
@@ -35,11 +37,15 @@ Code | Effect
 `# Header 1`| Displays your text in the largest heading available
 `## Header 2`| Displays your text as a header the next size down
 `###### Smallest Header`| displays your text as a header in the smallest heading size
-
+``Code Block``| `Markdown`
 `_Italics_`| _Markdown_ 
 `**Bold**`| **Markdown**
 `***Bold&Italic***`| ***Markdown***
 `~~Crossout~~`| ~~Markdown~~
+
+Adding Hyperlinks:
+
+###### > Click [here](https://guides.github.com/features/mastering-markdown/) for more Markdown Example
 
 ```
 
