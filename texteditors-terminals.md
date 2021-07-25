@@ -13,6 +13,8 @@ A text editor is a program that can be used in several different ways. In my sit
  3. Work preferences: If you are starting to develope for your place of work, they may all use a specific text edditor. This is not crutial but can help in the process of working together!
  4. Personal Preference: This is where your opinion comes in. What text edditor best suits what you are looking for? Is it presentabale and easy to manuover? It is also key to look for edditors that have code completion & syntax highlighting to be more efficeint. 
 
+ <iframe width="832" height="468" src="https://www.youtube.com/embed/L8QzFU0k5OA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 - Deffinitions: 
    - Syntax Highlighting: This feature displays text and code that you have written in different colours and fonts according to the code used, markdown effect, etc. It also can make your text easier to read when it comes to finding errors.
    - Code Completion: Code completion is constantly working while you are entering code. The code completion feature will diplay suggestions like end brackets, full code for inserting photos & hyper links, etc. This is based on what you originally begin to type in your code edditor. This can be benifical when working on large projects with lots of open and closing code!
