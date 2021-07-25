@@ -11,6 +11,7 @@ Markdown is one of the basic coding languages that an experienced or ***beginner
 ### Learning the Language 
 
 While markdown is not quite what we think about when talking about langages, the practice of learning it is very similar to learning english, spanish, or any other langauge. Markdown is no where comparable in size, allowing there to be guides and websites that can list all the avaliable code that markdown has to offer. Below are a few examples of code used in markdown and what they do specifically!
+
 ----
 
 ###### Simple Markdown Syntax:
