@@ -33,7 +33,7 @@ Brackets| Brackets
 
 ### What is a Terminal?
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fsupport.apple.com%2Fen-gb%2Fguide%2Fterminal%2Fwelcome%2Fmac&psig=AOvVaw1g-ChCnceZbMb6WAElxNvw&ust=1627339208541000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPCls5Gl__ECFQAAAAAdAAAAABAD
+![IOS Terminal](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsupport.apple.com%2Fen-gb%2Fguide%2Fterminal%2Fwelcome%2Fmac&psig=AOvVaw1g-ChCnceZbMb6WAElxNvw&ust=1627339208541000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPCls5Gl__ECFQAAAAAdAAAAABAD)
 
 ----
 
