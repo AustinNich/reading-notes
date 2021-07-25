@@ -32,6 +32,8 @@ Code | Effect
 
 ```
 
+###### Simple Markdown Syntax:
+
  Code | Effect
 ------------ | -------------
 `# Header 1`| Displays your text in the largest heading available
