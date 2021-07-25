@@ -31,7 +31,13 @@ Brackets| Brackets
 
 ----
 
-### Terminals
+### What is a Terminal?
+
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fsupport.apple.com%2Fen-gb%2Fguide%2Fterminal%2Fwelcome%2Fmac&psig=AOvVaw1g-ChCnceZbMb6WAElxNvw&ust=1627339208541000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPCls5Gl__ECFQAAAAAdAAAAABAD
+
+----
+
+A terminal is the actual interface to your computer that you can type and execute text based commands. The terminal is used to execute commands that allow you to do a certain task like: display computer content, locate and create file pathways, create networks, and so much more! 
 
 ----
 
