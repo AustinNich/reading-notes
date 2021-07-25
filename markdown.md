@@ -30,7 +30,7 @@ Code | Effect
 
 ### Getting Started
 
-Now since we know a little more, lets determine what it is that you are wanting to code! Markdown is very wide spread so you have a few options, but I will give a few exampled using this site! Once that is sorted out you will need to create a new file on your computer for the project, as well as open the file in a code editor! If you are interested in making a web page through GitHub pages as well, here is a [_link_](https://pages.github.com/) that will help you get your first repository set up so you can start coding.  If you are not for sure what editor to use, there are tons that you can look into online to see what fits you best!
+Now since we know a little more, lets determine what it is that you are wanting to code! Markdown is very wide spread so you have a few options! Once that is sorted out you will need to create a new file on your computer for the project, as well as open the file in a code editor! If you are interested in making a web page through GitHub pages as well, here is a [_link_](https://pages.github.com/) that will help you get your first repository set up so you can start coding.  If you are not for sure what editor to use, there are tons that you can look into online to see what fits you best!
 
 
 <iframe width="853" height="480" src="https://www.youtube.com/embed/2MsN8gpT6jY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
