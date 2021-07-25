@@ -32,7 +32,7 @@ Day in to day out I keep these on my mind so I can be the best that I know I can
 
 ##### Want to learn more?
 ###### > [_Markdown_](https://austinnich.github.io/reading-notes/markdown)
-###### > [_Linux_](https://austinnich.github.io/reading-notes/linux)
+###### > [_Text Editors & Terminals_](https://austinnich.github.io/reading-notes/texteditors-terminals)
 ###### > [_What I Learned_](https://austinnich.github.io/reading-notes/whatilearned)
 
 ###### > [_Back to Intro_](https://austinnich.github.io/reading-notes)
