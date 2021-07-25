@@ -6,7 +6,7 @@
 
 ### Markdown
 
-Markdown is one of the basic coding languages that an experienced or ***beginning*** coder can use to develop websites, documents, notes, etc! While markdown may sound complex, and it is in many ways, the key is that markdown is just a language accumulated of symbols that vary in different arrangements. Once you know a little more about what symbols to use and where to use them, you will be able to format and develop what ever you would like and make it look well put together! 
+Markdown is one of the basic coding languages that an experienced or ***beginning*** coder can use to develop websites, documents, notes, etc! While markdown may sound complex, and it is in many ways, the key is that markdown is just a language accumulated of symbols that vary in different arrangements Once you know a little more about what symbols to use and where to use them, you will be able to format and develop what ever you would like and make it look well put together! 
 
 ### Learning the Language 
 
@@ -61,4 +61,4 @@ Now since we know a little more, lets determine what it is that you are wanting 
 
 ### Taking the Wheel
 
-This is really when your creativity comes into play! We have everything set up and ready to go, now we just have to develop a formatting plan for the page and **code**! You may be thinking to your self, thats it, but truthfully it is with Markdown! Markdowns language has been around for a while and with times hasn't change much. With this being said, I think it is safe to say with a little bit of hard work and memorization anyone would can learn how to use Markdown when developing new products!
+This is really when your creativity comes into play! We have everything set up and ready to go, now we just have to develop a formatting plan for the page and **code**! You may be thinking to your self, thats it, but truthfully it is with Markdown! Markdowns language has been around for a while and with time hasn't change much. With this being said, I think it is safe to say with a little bit of hard work and memorization anyone would can learn how to use Markdown when developing new products!

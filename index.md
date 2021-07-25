@@ -31,6 +31,6 @@ Day in to day out I keep these on my mind so I can be the best that I know I can
 ----
 
 ##### Want to learn more?
-###### [*Markdown*](https://austinnich.github.io/reading-notes/markdown)
-###### [*Linux*](https://austinnich.github.io/reading-notes/linux)
+###### > [_Markdown_](https://austinnich.github.io/reading-notes/markdown)
+###### > [_Linux_](https://austinnich.github.io/reading-notes/linux)
 
