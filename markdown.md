@@ -28,7 +28,7 @@ Code | Effect
 `~~Crossout~~`| ~~Markdown~~
 
 
-###### > Click [here](https://guides.github.com/features/mastering-markdown/) for more Markdown Example
+###### > Click [here](https://guides.github.com/features/mastering-markdown/) for more Markdown Examples
 
 ```
 
