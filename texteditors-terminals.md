@@ -18,6 +18,8 @@ A text editor is a program that can be used in several different ways. In my sit
    - Code Completion: Code completion is constantly working while you are entering code. The code completion feature will diplay suggestions like end brackets, full code for inserting photos & hyper links, etc. This is based on what you originally begin to type in your code edditor. This can be benifical when working on large projects with lots of open and closing code!
    - IDE: (Integrated Development Environment) An IDE is a text editor, file manager, compiler, and a debugger all in one software package.
 
+###### > Here is a list of a few different Text Editors
+
 Mac| Windows
 -----------|-----------
 Text Wrangler| NotePad++
