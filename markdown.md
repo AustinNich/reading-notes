@@ -61,4 +61,4 @@ Now since we know a little more, lets determine what it is that you are wanting 
 
 ### Taking the Wheel
 
-This is really when your creativity comes into play! We have everything set up and ready to go, now we just have to develop a formatting plan for the page and **code**! You may be thinking to your self, thats it, but truthfully it is with Markdown! Markdowns language has been around for a while and with time hasn't change much. With this being said, I think it is safe to say with a little bit of hard work and memorization anyone would can learn how to use Markdown when developing new products!
+This is really when your creativity comes into play. We have everything set up and ready to go, now we just have to develop a formatting plan for the page and **code**! You may be thinking to your self, thats it, but truthfully it is with Markdown. Markdowns language has been around for a while and with time hasn't change much. With this being said, I think it is safe to say with a little bit of hard work and memorization anyone would can learn how to use Markdown when developing new products!
