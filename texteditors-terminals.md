@@ -50,11 +50,19 @@ A terminal is the actual interface to your computer that you can type and execut
 - Windows
   - If you are on Windows and intend to remotely log into another machine then you will need an [SSH client](https://www.ssh.com/academy/ssh/client).
 
+  ### Commands and Pathways
+  
+
   Command| Name| Action
   -------|-----|-------
   pwd| Print Working Directory| This command will show what directory you are currently in.
   ls| List| Displays everything that is in the current directory.
-  ls /Users/yourname/applications*| List for applications file| Displays everything that is on desktop.
+  ls /Users/yourname/applications| List for applications file| Displays everything that is in applications.
+  -ls| Long List| Displays a long list with more info from everythin in current directory.
+  cd| Change Directory| Using this command with a pathway will change your current directory.
+  mkdir| Make Directory| This will create a new director in the current directory.
+  code .| Open Text Editor| This will open a external text editor if connected.
+  rm -f| Remove File| Using this command with a pathway will remove a file.
 
 ----
 
