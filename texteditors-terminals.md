@@ -57,12 +57,15 @@ A terminal is the actual interface to your computer that you can type and execut
   -------|-----|-------
   pwd| Print Working Directory| This command will show what directory you are currently in.
   ls| List| Displays everything that is in the current directory.
-  ls /Users/yourname/applications| List for applications file| Displays everything that is in applications.
+  ls /Users/username/applications| List for applications file| Displays everything that is in applications.
   -ls| Long List| Displays a long list with more info from everything in current directory.
   cd| Change Directory| Using this command with a pathway will change your current directory.
   mkdir| Make Directory| This will create a new director in the current directory.
   code .| Open Text Editor| This will open an external text editor if connected.
   rm -f| Remove File| Using this command with a pathway will remove a file.
+
+  ### Pathways
+  Pathways are used to show you where you are or where you want to go more specifically in a terminal! For example, say you are in your terminal and you need to change directories to your *Applications* folder from your home directory: `cd applications`.  Once using the cd command you may not think anything happened but after entering `pwd` you will see you are now in the applications directory (pathway: `user/yourusername/applications`) rather than being just in your home directory (pathway `users/yourusername`)! Just as it appears, all that happened to the pathway was the application extension was added in. To help get a better idea of what is going on, this is the equivalent to being in finder or files on your os and clicking to applications file. This can be very useful in making sure you are in the correct directory or navigating to a file that is part of a large network.
 
 ----
 
