@@ -62,8 +62,8 @@ A terminal is the actual interface to your computer that you can type and execut
   cd| Change Directory| Using this command with a pathway will change your current directory.
   mkdir| Make Directory| This will create a new director in the current directory.
   code .| Open Text Editor| This will open an external text editor if connected.
-  rm -f| Remove File| Using this command with a pathway will remove a file. ~
-  
+  rm -f| Remove File| Using this command with a pathway will remove a file.
+
 
 
 
