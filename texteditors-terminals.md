@@ -37,16 +37,14 @@ Brackets| Brackets
 
 ----
 
-A terminal is the actual interface to your computer that you can type and execute text based commands. The terminal is used to execute commands that allow you to do a certain task like: display computer content, locate and create file pathways, create networks, access text editors, and so much more! The commands that you use while working in a terminal can very based on the Terminal used, but all use common code languages like JavaScript, Python, C#, C++, and Ruby! Below are a few common operating systems and some info about them!
+A terminal is the actual interface to your computer that you can type and execute text based commands. The terminal is used to execute commands that allow you to do a certain task like: display computer content, locate and create file pathways, create networks, access text editors, and so much more! The commands that you use while working in a terminal can very based on the Terminal used, but all use common code languages like JavaScript, Python, C#, C++, and Ruby! Below are a few common operating systems and how to open the terminal!
 
 -  Macbook
   - How to open Terminal?
     - You can start by looking under Applications -> Utilities. An easy way to get to it is the key combination 'command + space' which will bring up Spotlight, then start typing Terminal and it will soon show up.
-  - The command line interface (CLI), or the language that you type into Terminal to interact with your Mac, is called bash. 
 - Linux
   - How to open Terminal?
     - On linux systems, you can try to find it in Applications -> System or Applications -> Utilities. Alternatively you may be able to 'right-click' on the desktop and there may be an option 'Open in terminal'.
-  - Shell Scripting is the language of the linux terminal.
 - Windows
   - If you are on Windows and intend to remotely log into another machine then you will need an [SSH client](https://www.ssh.com/academy/ssh/client).
 
@@ -68,7 +66,7 @@ A terminal is the actual interface to your computer that you can type and execut
 
 
   ### Pathways
-  Pathways are used to show you where you are or where you want to go more specifically in a terminal! For example, say you are in your terminal and you need to change directories to your *Applications* folder from your home directory: `cd applications`.  Once using the cd command you may not think anything happened but after entering `pwd` you will see you are now in the applications directory (pathway: `user/yourusername/applications`) rather than being just in your home directory (pathway `users/yourusername`)! Just as it appears, all that happened to the pathway was the application extension was added in. To help get a better idea of what is going on, this is the equivalent to being in finder or files on your os and clicking to applications file. This can be very useful in making sure you are in the correct directory or navigating into a file that is deep within a large network.
+  Pathways are used to show you where you are or where you want to go more specifically in a terminal! For example, say you are in your terminal and you need to change directories to your *Applications* folder from your home directory: `cd applications`.  Once using the cd command you may not think anything happened but after entering `pwd` you will see you are now in the applications directory (pathway: `user/yourusername/applications`) rather than being just in your home directory (pathway `users/yourusername`)! Just as it appears, all that happened to the pathway was the application extension was added in. To help get a better idea of what is going on, this is the equivalent to being in finder or files on your os and clicking to the applications file. This can be very useful in making sure you are in the correct directory or navigating into a file that is deep within a large network.
 
 ----
 
