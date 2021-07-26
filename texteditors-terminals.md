@@ -42,11 +42,11 @@ A terminal is the actual interface to your computer that you can type and execut
 -  Macbook
   - How to open Terminal?
     - You can start by looking under Applications -> Utilities. An easy way to get to it is the key combination 'command + space' which will bring up Spotlight, then start typing Terminal and it will soon show up.
-    - The command line interface (CLI), or the language that you type into Terminal to interact with your Mac, is called bash. 
+  - The command line interface (CLI), or the language that you type into Terminal to interact with your Mac, is called bash. 
 - Linux
   - How to open Terminal?
     - On linux systems, you can try to find it in Applications -> System or Applications -> Utilities. Alternatively you may be able to 'right-click' on the desktop and there may be an option 'Open in terminal'.
-    - Shell Scripting is the language of the linux terminal.
+  - Shell Scripting is the language of the linux terminal.
 - Windows
   - If you are on Windows and intend to remotely log into another machine then you will need an [SSH client](https://www.ssh.com/academy/ssh/client).
 
