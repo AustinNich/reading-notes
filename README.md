@@ -1,2 +1,2 @@
-# Reading Notes
-What is the Growth Mindset
+# Austin Nich
+The Growth mindset and Learning Development
