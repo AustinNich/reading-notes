@@ -6,7 +6,7 @@ Hello, my name is Austin Nich and I am the creater of this page! I am super happ
 
 ----
 
-### Table of contents: 
+### Table of Contents: 
 
 1. [***The Growth Mindset***](https://austinnich.github.io/reading-notes)
 2. [***Markdown***](https://austinnich.github.io/reading-notes/markdown)
