@@ -50,6 +50,10 @@ A terminal is the actual interface to your computer that you can type and execut
 - Windows
   - If you are on Windows and intend to remotely log into another machine then you will need an [SSH client](https://www.ssh.com/academy/ssh/client).
 
+  Command| Name| Action
+  -------|-----|-------
+  pwd| Print Working Directory| This command will show what directory you are currently in
+
 ----
 
 ##### Want to learn more?
