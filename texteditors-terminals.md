@@ -39,11 +39,11 @@ Brackets| Brackets
 
 A terminal is the actual interface to your computer that you can type and execute text based commands. The terminal is used to execute commands that allow you to do a certain task like: display computer content, locate and create file pathways, create networks, and so much more! The commands that you use while working in a terminal can very based on the operating system, but all use common lauges from the tech community.
 
-> Mac Terminal
++ Mac Terminal
   - The command language that you type into Terminal to interact with your Mac, is called bash.
-> Linux terminal
++ Linux terminal
   - Shell Scripting Shell Scripting is the language used on linux terminals.
-> Wh
++ Wh
 
 
 
