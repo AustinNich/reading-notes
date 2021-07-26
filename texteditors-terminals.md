@@ -52,7 +52,9 @@ A terminal is the actual interface to your computer that you can type and execut
 
   Command| Name| Action
   -------|-----|-------
-  pwd| Print Working Directory| This command will show what directory you are currently in
+  pwd| Print Working Directory| This command will show what directory you are currently in.
+  ls| List| Displays everything that is in the current directory.
+  ls /Users/yourname/applications*| List for applications file| Displays everything that is on desktop.
 
 ----
 
