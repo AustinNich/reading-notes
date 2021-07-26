@@ -66,8 +66,8 @@ Now since we know a little more, lets determine what it is that you are wanting 
 This is really when your creativity comes into play. We have everything set up and ready to go, now we just have to develop a formatting plan for the page and **code**! You may be thinking to your self, thats it, but truthfully it is with Markdown. This language has been around for a while and with time it hasn't changed much. With this being said, I think it is safe to say with a little bit of hard work and memorization anyone can learn how to use Markdown when developing new products!
 
 ##### Want to learn more?
-###### > [_The Growth Mindset_](https://austinnich.github.io/reading-notes/growth-mindset)
+###### > [_The Growth Mindset_](https://austinnich.github.io/reading-notes)
 ###### > [_Text Editors & Terminals_](https://austinnich.github.io/reading-notes/texteditors-terminals)
 ###### > [_What I Learned_](https://austinnich.github.io/reading-notes/whatilearned)
 
-###### > [_Back to Intro_](https://austinnich.github.io/reading-notes)
+###### > [_Home_](https://austinnich.github.io/reading-notes/home)
