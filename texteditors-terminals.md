@@ -33,17 +33,15 @@ Brackets| Brackets
 
 ### What is a Terminal?
 
-![IOS Terminal](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsupport.apple.com%2Fen-gb%2Fguide%2Fterminal%2Fwelcome%2Fmac&psig=AOvVaw1g-ChCnceZbMb6WAElxNvw&ust=1627339208541000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPCls5Gl__ECFQAAAAAdAAAAABAD)
+![IOS Terminal](https://help.apple.com/assets/5FDD15EE12A93C067904695E/5FDD15F412A93C0679046966/en_GB/5d78d8673dc7af144fa652d9ece8daed.png)
 
 ----
 
-A terminal is the actual interface to your computer that you can type and execute text based commands. The terminal is used to execute commands that allow you to do a certain task like: display computer content, locate and create file pathways, create networks, and so much more! The commands that you use while working in a terminal can very based on the operating system, but all use common lauges from the tech community.
+A terminal is the actual interface to your computer that you can type and execute text based commands. The terminal is used to execute commands that allow you to do a certain task like: display computer content, locate and create file pathways, create networks, and so much more! The commands that you use while working in a terminal can very based on the Terminal used, but all use common lauges from the tech community.
 
-+ Mac Terminal
-  - The command language that you type into Terminal to interact with your Mac, is called bash.
-+ Linux terminal
-  - Shell Scripting Shell Scripting is the language used on linux terminals.
-+ Wh
+If you're on a Mac then you'll find the program Terminal under Applications -> Utilities. An easy way to get to it is the key combination 'command + space' which will bring up Spotlight, then start typing Terminal and it will soon show up.
+If on Linux then you will probably find it in Applications -> System or Applications -> Utilities. Alternatively you may be able to 'right-click' on the desktop and there may be an option 'Open in terminal'.
+If you are on Windows and intend to remotely log into another machine then you will need an SSH client. A rather good one is Putty (free) .
 
 
 
