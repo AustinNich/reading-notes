@@ -3,7 +3,7 @@
 ----
 
 ### What is a text editor?
-A text editor is a program that can be used in several different ways. In my situation, it is what I am using to develpe **this web page**!. How can you access a text edditor? Text edditors are very easy to get! You can simply download and install what ever editor you perfer to your computer or use one that is local to a website like GitHub.  Selecting a text editor can be very improtant because it is the main tool that you will use in development! 
+A text editor is a program that can be used in several different ways. In my situation, it is what I am using to develpe **this web page**! How can you access a text edditor? Text edditors are very easy to get! You can simply download and install what ever editor you perfer to your computer or use one that is local to a website like GitHub.  Selecting a text editor can be very improtant because it is the main tool that you will use in development! 
 
 ### What should you look for in a text editor?
  While there are several different types of text edditors to use, it is vital to look into your options. When considering a text editor you will have to weigh out differnt factors like:
@@ -37,17 +37,17 @@ Brackets| Brackets
 
 ----
 
-A terminal is the actual interface to your computer that you can type and execute text based commands. The terminal is used to execute commands that allow you to do a certain task like: display computer content, locate and create file pathways, create networks, and so much more! The commands that you use while working in a terminal can very based on the Terminal used, but all use common lauges from the tech community.
+A terminal is the actual interface to your computer that you can type and execute text based commands. The terminal is used to execute commands that allow you to do a certain task like: display computer content, locate and create file pathways, create networks, access text editors, and so much more! The commands that you use while working in a terminal can very based on the Terminal used, but all use common code langues like JavaScript, Python, C#, C++, and Ruby! Below are a few common operating systems and some info about them!
 
-If you're on a Mac then you'll find the program Terminal under Applications -> Utilities. An easy way to get to it is the key combination 'command + space' which will bring up Spotlight, then start typing Terminal and it will soon show up.
-If on Linux then you will probably find it in Applications -> System or Applications -> Utilities. Alternatively you may be able to 'right-click' on the desktop and there may be an option 'Open in terminal'.
-If you are on Windows and intend to remotely log into another machine then you will need an SSH client. A rather good one is Putty (free) .
-
-
-
-The command line interface (CLI), or the language that you type into Terminal to interact with your Mac, is called bash. Everything we discuss below is a bash command. Before you start using Terminal, you customize it to your own personal preference.
-
-Stick Notes. Shell Scripting is the language of the linux terminal. Shell scripts are sometimes referred to as “shebang” which is derived from the “#!” notation. Shell scripts are executed by interpreters present in the linux kernel.
+-  Macbook
+  - How to open Terminal?
+    - You can start by looking under Applications -> Utilities. An easy way to get to it is the key combination 'command + space' which will bring up Spotlight, then start typing Terminal and it will soon show up.
+    - The command line interface (CLI), or the language that you type into Terminal to interact with your Mac, is called bash. 
+- Linux
+  - How to open Terminal?
+    - On linux systems, you can try to find it in Applications -> System or Applications -> Utilities. Alternatively you may be able to 'right-click' on the desktop and there may be an option 'Open in terminal'.
+    - Shell Scripting is the language of the linux terminal.
+  - If you are on Windows and intend to remotely log into another machine then you will need an [SSH client](https://www.ssh.com/academy/ssh/client).
 
 ----
 
