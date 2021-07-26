@@ -37,7 +37,19 @@ Brackets| Brackets
 
 ----
 
-A terminal is the actual interface to your computer that you can type and execute text based commands. The terminal is used to execute commands that allow you to do a certain task like: display computer content, locate and create file pathways, create networks, and so much more! 
+A terminal is the actual interface to your computer that you can type and execute text based commands. The terminal is used to execute commands that allow you to do a certain task like: display computer content, locate and create file pathways, create networks, and so much more! The commands that you use while working in a terminal can very based on the operating system, but all use common lauges from the tech community.
+
+> Mac Terminal
+  - The command language that you type into Terminal to interact with your Mac, is called bash.
+> Linux terminal
+  - Shell Scripting Shell Scripting is the language used on linux terminals.
+> Wh
+
+
+
+The command line interface (CLI), or the language that you type into Terminal to interact with your Mac, is called bash. Everything we discuss below is a bash command. Before you start using Terminal, you customize it to your own personal preference.
+
+Stick Notes. Shell Scripting is the language of the linux terminal. Shell scripts are sometimes referred to as “shebang” which is derived from the “#!” notation. Shell scripts are executed by interpreters present in the linux kernel.
 
 ----
 
