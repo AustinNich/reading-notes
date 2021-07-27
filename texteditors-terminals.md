@@ -73,6 +73,7 @@ A terminal is the actual interface to your computer that you can type and execut
 ##### Want to learn more?
 ###### > [_The Growth Mindset_](https://austinnich.github.io/reading-notes)
 ###### > [_Markdown_](https://austinnich.github.io/reading-notes/markdown)
+###### > [_Using Git_](https://austinnich.github.io/reading-notes/git)
 ###### > [_What I Learned_](https://austinnich.github.io/reading-notes/whatilearned)
 
 ###### > [_Home_](https://austinnich.github.io/reading-notes/home)

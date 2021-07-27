@@ -68,6 +68,7 @@ This is really when your creativity comes into play. We have everything set up a
 ##### Want to learn more?
 ###### > [_The Growth Mindset_](https://austinnich.github.io/reading-notes)
 ###### > [_Text Editors & Terminals_](https://austinnich.github.io/reading-notes/texteditors-terminals)
+###### > [_Using Git_](https://austinnich.github.io/reading-notes/git)
 ###### > [_What I Learned_](https://austinnich.github.io/reading-notes/whatilearned)
 
 ###### > [_Home_](https://austinnich.github.io/reading-notes/home)

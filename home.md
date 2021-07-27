@@ -11,4 +11,5 @@ Hello, my name is Austin Nich and I am the creater of this page! I am super happ
 1. [***The Growth Mindset***](https://austinnich.github.io/reading-notes)
 2. [***Markdown***](https://austinnich.github.io/reading-notes/markdown)
 3. [***Text Editors & Terminals***](https://austinnich.github.io/reading-notes/texteditors-terminals)
-4. [***What I Learned***](https://austinnich.github.io/reading-notes/whatilearned)
+4. [***Using Git***](https://austinnich.github.io/reading-notes/git)
+5. [***What I Learned***](https://austinnich.github.io/reading-notes/whatilearned)
