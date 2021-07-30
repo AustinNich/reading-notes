@@ -1,4 +1,4 @@
-# The Growth Mindset and our Lives
+# The Growth Mindset and Our Lives
 
 ### Who am I?
 Hello, my name is Austin! I am in my 20's and stay here in the Magic City, Birmingham Alabama! I have been working from home for about a year and a half and honestly things have been interesting. With all this free time I have been able to focus more on things like my family, hobbies, and working toward my goals! Most recently, my time has been dedicated to furthering my career at work and at home while juggling the new dad role! Honestly, it keeps me busy and out of trouble. Balancing finances, improving my business, and striving to work my way up the corporate ladder while making sure I am prepared for my first born was not very encouraging at first. It has been a bit of a _bumpy_ road but with time and the right mind set I have been able to make it through the good and bad days. I still have a lot of obstacles to make it through but keeping your head up can take you a long way!
