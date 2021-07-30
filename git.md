@@ -25,23 +25,23 @@ Now that we haves Git installed, we need to enter in your user information to ma
 
 Type the following into Terminal or Command Line:
 
-'''
+```
 
 git config --global user.name "Jane Smith"
 
 git config --global user.email "example@email.com"
 
-'''
+```
 
 To confirm that you have the correct settings, enter the following command:
 
-'''
+```
 
 git config --global user.name (should return Jane Smith)
 
 git config --global user.email (should return example@email.com)
 
-'''
+```
 
 
 ----
