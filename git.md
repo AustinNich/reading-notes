@@ -27,7 +27,7 @@ Type the following into Terminal or Command Line:
 
 ```
 
-git config --global user.name "Jane Smith"
+git config --global user.name "Your name"
 
 git config --global user.email "example@email.com"
 
@@ -37,11 +37,14 @@ To confirm that you have the correct settings, enter the following command:
 
 ```
 
-git config --global user.name (should return Jane Smith)
+git config --global user.name (should return Your name)
 
 git config --global user.email (should return example@email.com)
 
 ```
+
+*After completing this, it would be best to connect what ever text edditor that you are using so it can be opened from the terminal. Depnding on the os and text edditor, you can find out what git command to use online to tie it in! 
+
 
 
 ----
