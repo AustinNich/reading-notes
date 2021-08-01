@@ -8,7 +8,11 @@ Before we dive into how to use git, lets get a better understanding. Git is a di
 
 Since git allows us to save all files to a computer before uploading newly edited text to a site, you are able to make changes before hand on any errors or new ideas. This also allows you to work on projects while not having to be connected to the internet or a specific network. Although we are going to be working through a terminal, git is fairly easy to get the hang of!
 
-## First Steps
+----
+
+# Developing a Site through Terminal with GIT
+
+## Starting off
 
 
 First things first, we need to make sure Git is downloaded on your computer. If you so happen to have Git on your computer, make sure it is up to date with the latest version available!
@@ -43,9 +47,15 @@ git config --global user.email (should return example@email.com)
 
 ```
 
-*After completing this, it would be best to connect what ever text editor that you are using so it can be opened from the terminal. Depending on the os and text editor, you can find out what git command to use online to tie it in! 
+*After completing this, it would be best to connect what ever text editor that you are using so it can be opened from the terminal. Depending on the os and text editor, you can find out what git command to use online to tie it in with your terminal! 
 
 
+
+###### > More Git Commands:
+
+Command| Action
+-------|-------
+git status| 
 
 ----
 
