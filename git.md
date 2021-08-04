@@ -12,7 +12,7 @@ Since git allows us to save all files to a computer before uploading newly edite
 
 # Developing a Site through Terminal with Git
 
-![Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcareerkarma.com%2Fblog%2Flinux-delete-directory%2F&psig=AOvVaw1FPca-E3_HLsCb5ktwNCyb&ust=1628184315811000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNDjx7jxl_ICFQAAAAAdAAAAABAD)
+![Image](https://careerkarma.com/blog/wp-content/uploads/2020/06/james-harrison-vpOeXr5wmR4-unsplash.jpg)
 
 ## Starting off
 
@@ -52,6 +52,8 @@ git config --global user.email (should return example@email.com)
 *After completing this, you can run the git `config --list` to see of your changes were saved. Also, it would be best to connect what ever text editor that you are using so it can be opened from the terminal. Depending on the os and text editor, you can find out what git command to use online to tie it in with your terminal! 
 
 ### Getting Started with your Repository
+
+![Image](https://images.livemint.com/img/2019/10/21/1600x900/wannacry-k8hE--621x414@LiveMint_1571654052350.jpg)
 
 Alright, since we have terminal all set up with git and linked to your text editor we need to get your repository up and running to make changes. There are two ways you can go from here to get your repository set up in terminal. We can either clone an existing repository from the web or we can import an existing file off your os into git.
 
