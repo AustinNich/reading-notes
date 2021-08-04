@@ -95,9 +95,10 @@ After running this command, you officially cloned the file and all of its conten
 
 ----
 
+#### Saving your changes
+
 Now you have succesfully added the repository to your os and can start edding each file as you would please! Wether developing a page through a external text edditor or the edditor in your terminal, you will need to make sure to save your changes. Once you have everything the way you would like, you would need to commit to the changes and push them to the origin. If you are working on a repository through github particularly, you should be able to go to the site url and see the changes made!
 
-----
 
 ###### > More Git Commands:
 
