@@ -12,6 +12,8 @@ Since git allows us to save all files to a computer before uploading newly edite
 
 # Developing a Site through Terminal with Git
 
+![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcareerkarma.com%2Fblog%2Flinux-delete-directory%2F&psig=AOvVaw1FPca-E3_HLsCb5ktwNCyb&ust=1628184315811000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNDjx7jxl_ICFQAAAAAdAAAAABAD)
+
 ## Starting off
 
 
