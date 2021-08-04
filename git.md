@@ -102,7 +102,13 @@ After running this command, you officially cloned the file and all of its conten
 
 Command| Action
 -------|-------
-git status| 
+git status| Displays the state of files
+git add yourfilename| Will intiate git to track changes in the file
+git add *| Will intiate git to track changes in all file
+git commit -m “yourtext”| Will commit changes with the comment "yourtext" 
+git commit -a| Commits all changes
+git push origin master| Will push your commits to your website
+
 
 ----
 
