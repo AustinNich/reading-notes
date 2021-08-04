@@ -86,7 +86,7 @@ If you are wanting to pull a repository off line then cloning is the way to go! 
 
 $ git clone https://yourrepositors.url
 
-'''
+```
 
 After running this command, you officially cloned the file and all of its contents. Git creates all of this in the working directory chosen as a .git file.
 
